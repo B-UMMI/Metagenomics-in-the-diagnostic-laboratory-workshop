@@ -171,3 +171,10 @@ Symlinks can ve created by passing the -s option to *ln*.
 `$ ln -s ~/somefile.txt .`
  
  When listing the contents of a directory with symlinks, the target filename is indicated preceded by a *->*. 
+ 
+ 
+ 
+###### Useful material
+
+https://www.funtoo.org/Linux_Fundamentals,_Part_1
+
