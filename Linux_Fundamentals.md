@@ -198,6 +198,7 @@ you're in a ubuntu/debian OS, you can do *apt-get install <package>*.
 - https://www.funtoo.org/Linux_Fundamentals,_Part_1
 - https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k
 - https://learncodethehardway.org/unix/bash_cheat_sheet.pdf
+- https://ryanstutorials.net/linuxtutorial/
 
 
 
