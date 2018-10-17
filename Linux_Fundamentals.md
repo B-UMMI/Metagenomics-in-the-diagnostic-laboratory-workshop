@@ -17,13 +17,15 @@ Commands you can run on the shell show up `$ like so` and `<file_name>` should b
 
 #### What is the Shell and Why do you need it?
 
-All the Linux operating systems (OS) are built on [Unix](), an open-source operating system.
+All the Linux operating systems (OS) are built on [Unix](https://en.wikipedia.org/wiki/Unix), an open-source operating 
+system.
 
-A computer's Shell is a direct way to access an OS's functions through a text-interface, often called the "command 
-line” or "terminal". Besides the regular functions of opening files, creating folders, moving or removing both, it 
-allows for more complex interactions with the hardware to automate complex tasks. 
+A computer's [Shell](https://en.wikipedia.org/wiki/Unix_shell) is a direct way to access an OS's functions through a 
+text-interface, often called the "command line” or "terminal". Besides the regular functions of opening files, creating 
+folders, moving or removing both, it allows for more complex interactions with the hardware to automate complex tasks. 
 
-The most commonly used Shell is called [bash](). You can check what shell you're using by running the command `echo $SHELL`
+The most commonly used Shell is called [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)). You can check what 
+shell you're using by running the command `echo $SHELL`
 
 Why should you use it?
 
@@ -170,11 +172,32 @@ Symlinks can ve created by passing the -s option to *ln*.
 
 `$ ln -s ~/somefile.txt .`
  
- When listing the contents of a directory with symlinks, the target filename is indicated preceded by a *->*. 
+When listing the contents of a directory with symlinks, the target filename is indicated preceded by a *->*. 
  
  
- 
-###### Useful material
+#### What else is out there
 
-https://www.funtoo.org/Linux_Fundamentals,_Part_1
+There are many useful programs that facilitate working on a Linux system. One of the most used tools is *wget* or
+*curl*. These commands allow to retrieve files using the most widely-used Internet protocols, 
+
+`$ curl <link_address>` OR `$ wget <link_address>`
+
+The *Pipe* (|) allows you to take one command's output and use it as the input for another
+
+*Htop* allows you to monitor the usage of resources in your machine.
+
+
+```
+Note: Package managers, like apt and brew, will install software and their dependencies into your machine. If 
+you're in a ubuntu/debian OS, you can do *apt-get install <package>*. 
+```
+
+ 
+#### Useful material
+
+- https://www.funtoo.org/Linux_Fundamentals,_Part_1
+- https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k
+- https://learncodethehardway.org/unix/bash_cheat_sheet.pdf
+
+
 

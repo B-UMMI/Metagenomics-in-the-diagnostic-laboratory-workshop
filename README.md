@@ -32,13 +32,15 @@ Participants of ESCMID's capacity-building workshop for Metagenomics in the Diag
 
 ## Plannification
 
-### 1. Linux Fundamentals
+### 1. [Linux Fundamentals](Linux_Fundamentals)
 
 ####    1.1 What is the Shell and Why do you need it?
 
 ####    1.2 First Commands
 
-####    1.3 Other useful commands and resources
+####    1.3 What else is out there
+
+####    1.4 Useful Material
 
 ### 2. Nextflow and Containers
 
