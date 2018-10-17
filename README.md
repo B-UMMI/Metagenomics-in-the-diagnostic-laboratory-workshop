@@ -38,17 +38,17 @@ Participants of ESCMID's capacity-building workshop for Metagenomics in the Diag
 
 ####    1.2 First Commands
 
-####    1.3 What else is out there
+####    1.3 What Else is Out There
 
 ####    1.4 Useful Material
 
-### 2. Nextflow and Containers
+### 2. Nextflow and Software Containers
 
-####    2.1 Reproducibility of a program
+####    2.1 Reproducibility of a Program
 
-####    2.2 Containers (installation)
+####    2.2 Software Containers
 
-####    2.3 Nextflow Pipelines (installation)
+####    2.3 The Nextflow 
 
 ### 3. FlowCraft
 
