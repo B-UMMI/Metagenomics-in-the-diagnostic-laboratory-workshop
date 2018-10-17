@@ -32,7 +32,7 @@ Participants of ESCMID's capacity-building workshop for Metagenomics in the Diag
 
 ## Plannification
 
-### 1. [Linux Fundamentals](Linux_Fundamentals)
+### 1. [Linux Fundamentals](Linux_Fundamentals.md)
 
 ####    1.1 What is the Shell and Why do you need it?
 
@@ -42,7 +42,7 @@ Participants of ESCMID's capacity-building workshop for Metagenomics in the Diag
 
 ####    1.4 Useful Material
 
-### 2. Nextflow and Software Containers
+### 2. [Nextflow and Software Containers](Nextflow_containers.md)
 
 ####    2.1 Reproducibility of a Program
 
@@ -50,7 +50,7 @@ Participants of ESCMID's capacity-building workshop for Metagenomics in the Diag
 
 ####    2.3 The Nextflow 
 
-### 3. FlowCraft
+### 3. [FlowCraft](Flowcraft.md)
 
 ####    3.1 Overview
 
