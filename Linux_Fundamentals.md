@@ -29,7 +29,7 @@ shell you're using by running the command `echo $SHELL`
 
 Why should you use it?
 
-1. Shells can do many things GUI's can't, from a parallelised BLAST run analysis to complex interactions between 
+1. Shells can do many things GUI's can't, from a parallelized BLAST run analysis to complex interactions between 
 different tools. 
 
 2. Shells let you automate otherwise time-consuming tasks. 

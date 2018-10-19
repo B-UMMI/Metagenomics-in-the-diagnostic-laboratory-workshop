@@ -81,7 +81,7 @@ wget -qO- https://get.nextflow.io | bash
 
 ```
 
-We need to make the nextflow executable accesseble to your system, so we need to add it's path to the *.bashrc* file.
+We need to make the nextflow executable accessible to your system, so we need to add it's path to the *.bashrc* file.
 The *pwd* command will output the full path of the nextflow executable location. Copy that output. 
 
 `$ pwd` 
@@ -91,7 +91,7 @@ Now add the export for this Path to the bashrc file by running the following com
 `$ export PATH=<result_from_pwd>:$PATH >> ~/.bashrc`
 `$ source ~/.bashrc`
 
-Lastly, you just need to install Flowcraft (developer installatrion).
+Lastly, you just need to install Flowcraft (developer installation).
 Flowcraft is hosted in GitHub, so a tool called *git* is necessary to download Flowcraft's source code.
 This assumes that python3 is already installed in your system. FlowCraft is built in Python3 and it's required for 
 it's functioning.
@@ -131,7 +131,7 @@ the terminal.
 ###### The build mode
 
 Pipelines are generated using the build mode of FlowCraft and the -t parameter to specify the components inside quotes.
-The components are mocular pieaces of software or scripts. You can see the full list of components available with
+The components are modular pieces of software or scripts. You can see the full list of components available with
 the command `$ flowcraft.py build -l` or `$ flowcraft.py build -L` form a more comprehensive listing. 
 
 In this session we'll use a pipeline with the following components: remove_host, fastq_trimmomatic,

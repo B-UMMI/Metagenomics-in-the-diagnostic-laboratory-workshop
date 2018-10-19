@@ -61,7 +61,7 @@ for building parallelized, scalable and reproducible workflows using software co
  
  - *Containerized* - Integrations with container engines (such as Docker and Singularity) is supported out of the box.
  
- The creation of Nextflow pipelines was design for bioinformaticians familiar with programing, but its execution is
+ The creation of Nextflow pipelines was design for bioinformataticsfamiliar with programing, but its execution is
  for everyone. 
  
  ```
